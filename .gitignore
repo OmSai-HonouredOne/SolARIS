@@ -2,10 +2,13 @@ pradan1.issdc.gov.in/
 AL1_SLX_L1_20260202/
 AL1_SLX_L1_20260203/
 AL1_SLX_L1_20260204/
-AL1_SLX_L1_20260603
+AL1_SLX_L1_20260603/
 AL1_SLX_L1_20260621/
 AL1_SLX_L1_20260624/
 
+HEL1OS/2026/
+
 *.xhtml
-test.ipynb
+SoLEXS/test.ipynb
+HEL1OS/test.ipynb
 References.tex
